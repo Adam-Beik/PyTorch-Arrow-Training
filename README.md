@@ -33,7 +33,8 @@ After configuration, the model learned by first training itself on the training 
 Results and Accuracy
 --
 The end result of this neural network’s training process was quite fruitful. The model scored an average recognition metric of 89.36%, with subsequent runs yielding scores anywhere between ~85.5% to ~90.5%. The output is pictured below:
-![epoch training results showing an average accuracy of 89.36%](https://github.com/Adam-Beik/PyTorch-Arrow-Training/training_output.jpg)
-*figure 1: Neural network accuracy output after 25 epochs.*
+![epoch training results showing an average accuracy of 89.36%](https://github.com/Adam-Beik/PyTorch-Arrow-Training/blob/main/training_output.jpg)
+*Figure 1: Neural network accuracy output after 25 epochs.*
 The resulting graphs of loss-over-epochs and accuracy-over-epochs are pictured below:
-![graphs of loss-over-epochs and accuracy-over-epochs, respectively, accuracy output](https://github.com/Adam-Beik/PyTorch-Arrow-Training/graph_outputs.jpg)
+![graphs of loss-over-epochs and accuracy-over-epochs, respectively, accuracy output](https://github.com/Adam-Beik/PyTorch-Arrow-Training/blob/main/graph_outputs.jpg)
+*Figure 2: Graphs depicting loss-over-epochs and accuracy-over-epochs of the model, respectively.* 
