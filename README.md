@@ -36,5 +36,5 @@ The end result of this neural network’s training process was quite fruitful. T
 ![epoch training results showing an average accuracy of 89.36%](https://github.com/Adam-Beik/PyTorch-Arrow-Training/blob/main/training_output.jpg)
 *Figure 1: Neural network accuracy output after 25 epochs.*
 The resulting graphs of loss-over-epochs and accuracy-over-epochs are pictured below:
-![graphs of loss-over-epochs and accuracy-over-epochs, respectively, accuracy output](https://github.com/Adam-Beik/PyTorch-Arrow-Training/blob/main/graph_outputs.jpg)
+![graphs of loss-over-epochs and accuracy-over-epochs, respectively, accuracy output](https://github.com/Adam-Beik/PyTorch-Arrow-Training/blob/main/arrow_training_curves.png)
 *Figure 2: Graphs depicting loss-over-epochs and accuracy-over-epochs of the model, respectively.* 
