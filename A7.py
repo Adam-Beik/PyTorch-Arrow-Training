@@ -8,7 +8,7 @@ import cv2
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms
 
-# define arrow classes as per pdf instructions
+# define arrow classes
 ARROW_CLASSES = {
     "forward": [1, 0, 0, 0],
     "left": [0, 1, 0, 0],
@@ -263,3 +263,4 @@ plt.show()
 # save the model curves
 torch.save(model.state_dict(), "arrow_classifier_model.pth")
 print("Model saved as 'arrow_classifier_model.pth'")
+
